@@ -47,7 +47,15 @@ body {
     width: 100%;
 }
 
-
+.orange_pulse {
+    background: #f5af29;
+    height: 12px;
+    width: 12px;
+    border-radius: 20px;
+    animation: pulse-yellow 2s 
+linear infinite;
+    transform: scale(1);
+}
 
 hr {
   height: 0;

@@ -46,7 +46,7 @@
     "text_font_size_desktop": 16,
     "show_page_transition": true,
     "zoom_image_on_hover": false,
-    "reduce_drawer_animation": true,
+    "reduce_drawer_animation": false,
     "reduce_menu_animation": true,
     "heading_apparition": "split_fade",
     "color_swatch_style": "round",

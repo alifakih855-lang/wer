@@ -42,6 +42,13 @@ body {
     margin: 10px 0;
 }
 
+.icon_img {
+    max-width: 20px;
+    width: 100%;
+}
+
+
+
 hr {
   height: 0;
   color: inherit;

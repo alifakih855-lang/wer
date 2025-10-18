@@ -57,6 +57,11 @@ linear infinite;
     transform: scale(1);
 }
 
+pulse-yellow animation {
+    transform: scale(0.996029);
+    box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 9.20588px;
+}
+
 hr {
   height: 0;
   color: inherit;

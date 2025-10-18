@@ -34,6 +34,14 @@ body {
     font-weight: 500 !important;
 }
 
+.flex_icon_text {
+    display: flex
+;
+    column-gap: 10px;
+    align-items: center;
+    margin: 10px 0;
+}
+
 hr {
   height: 0;
   color: inherit;

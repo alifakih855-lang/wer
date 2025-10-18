@@ -20,10 +20,26 @@
             "text": "VANDAAG TOT WEL 50% KORTING",
             "url": ""
           }
+        },
+        "message_fyeQVL": {
+          "type": "message",
+          "settings": {
+            "text": "15% KORTING BIJ 2 ARTIKELEN!",
+            "url": ""
+          }
+        },
+        "message_Np9XEB": {
+          "type": "message",
+          "settings": {
+            "text": "GRATIS VERZENDING MET POSTNL & BPOST",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_fyeQVL",
+        "message_Np9XEB"
       ],
       "settings": {
         "enable_sticky": false,

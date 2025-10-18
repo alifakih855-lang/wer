@@ -32,6 +32,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_GiDGaH": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"flex-div\">\n<span style=\"margin-right: 14px; margin-left: 3px;\" class=\"orange_pulse\"></span>\n<span style=\"color:#f5af29;\">Bijna uitverkocht</span>\n</div>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -83,6 +89,7 @@
         "title",
         "badges",
         "price",
+        "liquid_GiDGaH",
         "rating",
         "payment_terms",
         "separator",
@@ -97,7 +104,7 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": true,
         "enable_image_zoom": true,

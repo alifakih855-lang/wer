@@ -44,6 +44,12 @@
             "liquid": "<div class=\"flex_icon_text\">\n              <div class=\"icon_img\">\n                <img src=\"//koelmanmode.nl/cdn/shop/files/Ontwerp_zonder_titel_16.webp?v=1756012553\">\n              </div>\n              <div class=\"icon_text\">\n                <p>Gratis verzending in NL &amp; BE</p>\n              </div>\n            </div>"
           }
         },
+        "liquid_67Hqjr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"flex_icon_text\">\n              <div class=\"icon_img\">\n                <img src=\"//koelmanmode.nl/cdn/shop/files/Ontwerp_zonder_titel_43.webp?v=1756012553\">\n              </div>\n              <div class=\"icon_text\">\n                <p>14 Dagen geld-terug garantie</p>\n              </div>\n            </div>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -97,6 +103,7 @@
         "price",
         "liquid_GiDGaH",
         "liquid_FXEUdj",
+        "liquid_67Hqjr",
         "rating",
         "payment_terms",
         "separator",

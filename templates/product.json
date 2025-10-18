@@ -38,6 +38,12 @@
             "liquid": "<div class=\"flex-div\">\n<span style=\"margin-right: 14px; margin-left: 3px;\" class=\"orange_pulse\"></span>\n<span style=\"color:#f5af29;\">Bijna uitverkocht</span>\n</div>"
           }
         },
+        "liquid_FXEUdj": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"flex_icon_text\">\n              <div class=\"icon_img\">\n                <img src=\"//koelmanmode.nl/cdn/shop/files/Ontwerp_zonder_titel_16.webp?v=1756012553\">\n              </div>\n              <div class=\"icon_text\">\n                <p>Gratis verzending in NL &amp; BE</p>\n              </div>\n            </div>"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -90,6 +96,7 @@
         "badges",
         "price",
         "liquid_GiDGaH",
+        "liquid_FXEUdj",
         "rating",
         "payment_terms",
         "separator",

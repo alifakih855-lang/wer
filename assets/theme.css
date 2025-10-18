@@ -24,6 +24,16 @@ body {
   position: relative;
 }
 
+.flex-div {
+    display: flex
+;
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: center; */
+    margin: 10px 0;
+    font-weight: 500 !important;
+}
+
 hr {
   height: 0;
   color: inherit;

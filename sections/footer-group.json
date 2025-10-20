@@ -18,12 +18,13 @@
           "type": "item",
           "settings": {
             "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
+            "custom_icon": "shopify://shop_images/symbol-of-bancontact.png",
+            "mobile_icon_width": 44,
+            "icon_width": 44,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
+            "title": "Livraison Gratuite",
             "content": "<p>Tell your customers about your shipping offer.</p>"
           }
         },

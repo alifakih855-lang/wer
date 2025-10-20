@@ -71,7 +71,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "manteaux",
             "subheading": "",
             "title": "",
             "url": "",
@@ -85,7 +85,7 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "pull",
             "subheading": "",
             "title": "",
             "url": "",

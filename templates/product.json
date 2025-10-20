@@ -12,10 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -38,16 +34,6 @@
             "liquid": "<div class=\"flex-div\">\n<span style=\"margin-right: 14px; margin-left: 3px;\" class=\"orange_pulse\"></span>\n<span style=\"color:#f5af29;\">Presque épuisé</span>\n</div>\n\n<div class=\"flex_icon_text\">\n              <div class=\"icon_img\">\n                <img src=\"//koelmanmode.nl/cdn/shop/files/Ontwerp_zonder_titel_16.webp?v=1756012553\">\n              </div>\n              <div class=\"icon_text\">\n                <p>Livraison gratuite en Belgique</p>\n              </div>\n            </div>\n<div class=\"flex_icon_text\">\n              <div class=\"icon_img\">\n                <img src=\"//koelmanmode.nl/cdn/shop/files/Ontwerp_zonder_titel_43.webp?v=1756012553\">\n              </div>\n              <div class=\"icon_text\">\n                <p>Garantie de remboursement de 30 jours</p>\n              </div>\n            </div>\n<div class=\"flex_icon_text\">\n              <div class=\"icon_img\">\n                <img src=\"//koelmanmode.nl/cdn/shop/files/nederland.webp?v=1756012553\">\n              </div>\n              <div class=\"icon_text\">\n                <p>Service personnalisé</p>\n              </div>\n            </div>"
           }
         },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -61,10 +47,6 @@
             "color_mode": "variant",
             "size_chart_page": ""
           }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -91,16 +73,12 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",
         "liquid_GiDGaH",
-        "rating",
-        "payment_terms",
         "separator",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
         "liquid_KwjkVn",
         "description"

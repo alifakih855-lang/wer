@@ -44,14 +44,14 @@
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-truck",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "Livraison Gratuite",
+            "content": "<p>La livraison est gratuite pour toutes les commandes dans toute la Belgique.</p>"
           }
         },
         "payment": {

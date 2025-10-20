@@ -136,7 +136,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "",
+        "collection": "vente-de-vestes-en-cuir",
         "products": [],
         "full_width": true,
         "stack_products": false,

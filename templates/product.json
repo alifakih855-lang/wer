@@ -101,6 +101,42 @@
         "input_text_color": ""
       }
     },
+    "impact_text_Kinakb": {
+      "type": "impact-text",
+      "blocks": {
+        "item_7yHHLL": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "Satisfaction garantie",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_7yHHLL"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1.1,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "heading_text_color": "#f8653a",
+        "heading_gradient": "linear-gradient(180deg, rgba(247, 72, 45, 1), rgba(86, 86, 86, 1) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -126,6 +162,7 @@
   },
   "order": [
     "main",
+    "impact_text_Kinakb",
     "related-products"
   ]
 }

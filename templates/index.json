@@ -68,24 +68,10 @@
     "collection-list": {
       "type": "collection-list",
       "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "pantalons",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection_66QimY": {
           "type": "collection",
           "settings": {
-            "collection": "vestes-en-cuir",
+            "collection": "chaussures",
             "subheading": "",
             "title": "",
             "url": "",
@@ -110,10 +96,10 @@
             "overlay_opacity": 30
           }
         },
-        "collection-3": {
+        "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "pantalons",
             "subheading": "",
             "title": "",
             "url": "",
@@ -126,10 +112,9 @@
         }
       },
       "block_order": [
-        "collection-1",
         "collection_66QimY",
         "collection-2",
-        "collection-3"
+        "collection-1"
       ],
       "settings": {
         "full_width": true,

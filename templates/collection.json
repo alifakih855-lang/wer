@@ -15,7 +15,7 @@
         "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": true,
-        "show_collection_title": true,
+        "show_collection_title": false,
         "show_collection_description": true,
         "show_collection_image": true,
         "collection_title_size": "h0",
@@ -29,6 +29,46 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_FmLyXq": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_VqQiWC": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_9EYQzM": {
+          "type": "heading",
+          "settings": {
+            "text": "SOLDES D’AUTOMNE",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_TfTBe3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Notre collection saisonnière en édition limitée – maintenant disponible avec jusqu’à <strong>-50 % de réduction</strong>.</p><p>Pour une durée limitée, profitez d’économies exclusives lorsque vous commandez plusieurs articles :</p><p>2 articles = <strong>-15 %</strong><br/><br/>3 articles = <strong>-15 %</strong><br/><br/>4 articles = <strong>-20 %</strong></p><p>La réduction s’applique automatiquement au moment du paiement.<br/><br/>Une fois épuisées, ces pièces ne reviendront pas.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_VqQiWC",
+        "heading_9EYQzM",
+        "richtext_TfTBe3"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -36,8 +76,8 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "filter_layout": "sidebar",
-        "show_sort_by": true,
-        "show_filters": true,
+        "show_sort_by": false,
+        "show_filters": false,
         "show_filter_group_name": false,
         "show_color_swatch": false,
         "show_empty_filter_values": false,
@@ -48,6 +88,7 @@
   },
   "order": [
     "banner",
+    "rich_text_FmLyXq",
     "main"
   ]
 }
